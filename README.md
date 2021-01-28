@@ -1,2 +1,1 @@
-# Veri-Tabanı
-Kütüphane programıdır
+
